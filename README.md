@@ -11,6 +11,6 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&lines=Developer,+Certified+Ethical+Hacker,;+Server+Manager+&+Admin+Frontend+&+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Developer,+Certified+Ethical+Hacker,;+Server+Manager+&+Admin+Frontend+&+Backend)](https://git.io/typing-svg)
 
 ###### NATRIX_DEV
