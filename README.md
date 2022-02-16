@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&lines=js,;py,;php,;html-css,;java,;eris,;go,;react.js,;batched,;vue.js,;sqlite3,;sql,;and+more+...+🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;py,;php,;html-css,;java,;eris,;go,;react.js,;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=34eb49&lines=My+skills+:)](https://git.io/typing-svg)
 
