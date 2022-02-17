@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=N;A;T;R;I;X)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=N;NA;NAT;NATR;NATRI;NATRIX)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=34eb49&lines=Languages:)](https://git.io/typing-svg)
@@ -14,4 +14,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Developer,+Certified+Ethical+Hacker,;+Server+Manager+&+Admin+Frontend+&+Backend)](https://git.io/typing-svg)
 
-###### NATRIX_DEV
+###### NATRIX_DEV 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=N;A;T;R;I;X)](https://git.io/typing-svg)
