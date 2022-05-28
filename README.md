@@ -5,7 +5,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;py,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;py,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=34eb49&lines=My+skills+:)](https://git.io/typing-svg)
 
@@ -23,3 +23,5 @@
 
 ###### NATRIX_DEV 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=N;A;T;R;I;X)](https://git.io/typing-svg)
+ 
+
