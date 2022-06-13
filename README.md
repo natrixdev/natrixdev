@@ -1,6 +1,9 @@
 
 ## Natrix - Developer ✨
 
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+
 > ### ⚙️ Mastered languages: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;py,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
@@ -29,4 +32,6 @@
  [+] author: natrix
  [+] owner: natrixdev 
  ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
