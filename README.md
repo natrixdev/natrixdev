@@ -24,7 +24,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrixdev&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
  </div>
 </a>
-
+<br>
  
  
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
