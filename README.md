@@ -18,7 +18,7 @@
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 13/06/2022
+ [+] Last update: 04/08/2022
  [+] author: natrix
  [+] owner: natrixdev 
  ```
@@ -27,11 +27,11 @@
  
  > ### 🎈 Socials 
  
- | 🦄 [Discord](https://discord.com/channels/@me/983001054994104372) | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix)
+ | 🦄 [Discord](https://discord.com/channels/@me/1003618812836446281) | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix)
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
- > Made by natrix dev - README.md v.2.0
+ > Made by natrix dev - README.md v.2.1
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
