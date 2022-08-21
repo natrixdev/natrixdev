@@ -45,6 +45,6 @@
  <br>
  <p>Profile Views</p>
  <br>
-<img src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
 </a>
 
