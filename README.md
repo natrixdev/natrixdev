@@ -44,10 +44,9 @@
  </div>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-
-★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-
-> ### 👀 Visitors
+<br>
+> ### 👀 Profile Views
+<br>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/natrixdev/count.svg" />
