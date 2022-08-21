@@ -45,3 +45,12 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 👀 Visitors
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+</p>
+
+
