@@ -42,11 +42,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natrixdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrixdev&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
  </div>
+ </a>
  <br>
  <br><br><br><br>
  <br><br><br><br>
- <p>Profile Views</p>
+ ### <p>Profile Views</p>
  <br>
 <img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
-</a>
+
 
