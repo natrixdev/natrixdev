@@ -46,7 +46,7 @@
  <br>
  <br><br><br><br>
  <br><br><br><br>
- ### <p>Profile Views</p>
+ ### <p align="center">👀 &nbsp;Visitors</p>
  <br>
 <img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
 
