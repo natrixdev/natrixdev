@@ -11,7 +11,12 @@
 
 
 > ### 👉 Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Developer,+Certified+Ethical+Hacker,;+Server+Manager+&+Admin+Frontend+&+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+> ### 👋 Already worked for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=5000&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
