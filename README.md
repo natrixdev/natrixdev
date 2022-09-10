@@ -32,7 +32,7 @@
  
  > ### 🎈 Socials 
  
- | 🦄 [Discord](https://discord.com/channels/@me/1003618812836446281) | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix) | 🐦 [Twitter](https://twitter.com/natrix_dev) |
+ | 🦄 [Discord](Soon (Account Banned)) | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix) | 🐦 [Twitter](https://twitter.com/natrix_dev) |
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
