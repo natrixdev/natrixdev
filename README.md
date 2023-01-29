@@ -1,5 +1,5 @@
 
-## Natrix - Developer ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=1750&pause=100&color=33F741&background=1E42FF00&center=true&width=435&lines=NATRIXDEV)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
