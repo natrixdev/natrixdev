@@ -37,7 +37,7 @@
  | 🐻 [Rkns](https://rkns.me/Natrix) | 🐴 [Rekonise](https://rekonise.me/Natrix) | 🐦 [Twitter](https://twitter.com/natrix_dev) |
  
  ![DISCORD](https://discord.c99.nl/widget/theme-2/1003618812836446281.png)
- <br>`natrix#4526`
+ <br>```natrix#4526```
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
