@@ -25,7 +25,7 @@
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 21/08/2022
+ [+] Last update: 26/05/2023
  [+] author: natrix
  [+] owner: natrixdev 
  ```
